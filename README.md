@@ -8,6 +8,10 @@ Exercício da aula 9 da disciplina TTI202
 - Após o fork aparecerá uma cópia do meu repositório no perfil de vocês, com tudo que já existe nele;
 - O arquivo de configurações do github actions já está lá, nele, as configurações para rodar os testes unitários já estão prontas também;
 - Vocês devem criar novas funções para o código em python, porém primeiro devem escrever o teste para essa função e depois o código que irá fazê-la passar;
+- Criem as funções da calculadora com TDD:
+    - Primeiro os testes no arquivo test_methods.py;
+    - Depois as funções em methods.py.
+
 
 ## Entrega 
 - A entrega deve ser feita através de um pull request de volta ao meu repositório;
