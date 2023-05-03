@@ -11,7 +11,26 @@ Exercício da aula 9 da disciplina TTI202
 - Criem as funções da calculadora com TDD:
     - Primeiro os testes no arquivo test_methods.py;
     - Depois as funções em methods.py.
+    
+## Instalar os requerimentos do pytest
 
+Instalar os requerimentos do python e pytest:
+
+```
+$ pip install -r requirements.txt
+```
+
+Rodar o pytest:
+
+```
+$ pytest
+```
+
+--> Caso tenha problemas com o Windows:
+
+```
+$ python -m pytest
+```
 
 ## Entrega 
 - A entrega deve ser feita através de um pull request de volta ao meu repositório;
